@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+
+
+
+.announcement{
+    background-color: aqua;
+    padding-bottom: 15px;
+font-size: 30px;
+  
+}
+.Anila{
+    border-radius: 700px;
+}
+img{
+    
+margin-left: 500px;
+}
+.nav navbar-nav{
+    background-color: black;
+}
